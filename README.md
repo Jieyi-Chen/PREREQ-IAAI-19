@@ -18,7 +18,7 @@ to learn the /beta matrix (concept vectors). This code is modfied from original 
 It does a 10 fold cross-validation on the data.
 
     cd "siamese network"
-    python siamese_fc_relu.py  "NPTEL MOOC Dataset" "../datasets/NPTEL MOOC Dataset/k100_a0.01 100"
+    python siamese_fc_relu.py  "NPTEL MOOC Dataset" "../datasets/NPTEL MOOC Dataset/k100_a0.01" 100
 
 
 *You may change all the above occurence of "NPTEL MOOC Dataset" to "University Course Dataset" to run on University Course Dataset.*
